@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/simonforster/WorkProjects/client-gatling-test-suite/src/test/resources/logback.xml,/Users/simonforster/WorkProjects/client-gatling-test-suite/target/scala-2.13/test-classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/simonforster/WorkProjects/client-gatling-test-suite/src/test/resources/gatling.conf,/Users/simonforster/WorkProjects/client-gatling-test-suite/target/scala-2.13/test-classes/gatling.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/simonforster/WorkProjects/client-gatling-test-suite/src/test/resources/recorder.conf,/Users/simonforster/WorkProjects/client-gatling-test-suite/target/scala-2.13/test-classes/recorder.conf)[0m

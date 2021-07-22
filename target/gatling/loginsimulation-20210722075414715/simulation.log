@@ -1,0 +1,14 @@
+RUN	clients.LogInSimulation	loginsimulation	1626940454715	 	3.6.1
+USER	LogInSimulation	START	1626940455512
+REQUEST		Get start page	1626940455532	1626940455547	OK	 
+REQUEST		favicon.ico	1626940455616	1626940455623	OK	 
+REQUEST		hmrc-frontend-1.33.1.min.css	1626940455617	1626940455632	OK	 
+REQUEST		hmrc-frontend-1.33.1.min.js	1626940455618	1626940455655	OK	 
+REQUEST		Get login page	1626940455656	1626940455661	OK	 
+REQUEST		hmrc-frontend-1.33.1.min.css	1626940455667	1626940455671	OK	 
+REQUEST		favicon.ico	1626940455666	1626940455673	OK	 
+REQUEST		hmrc-frontend-1.33.1.min.js	1626940455668	1626940455673	OK	 
+REQUEST		Submit login details	1626940455678	1626940455697	OK	 
+REQUEST		Submit agent	1626940455699	1626940455732	KO	header(Location).find.is(/client/arn-submit), but actually found nothing
+REQUEST		Remove agent	1626940455734	1626940455755	KO	header(Location).find.is(/client/arn-remove), but actually found nothing
+USER	LogInSimulation	END	1626940455758

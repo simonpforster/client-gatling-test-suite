@@ -1,0 +1,10 @@
+{
+  "simulation": "clients.LogInSimulation",
+  "simulationId": "loginsimulation",
+  "start": 1626939675962,
+  "description": "",
+  "scenarios": ["LogInSimulation"],
+  "assertions": [
+
+  ]
+}
