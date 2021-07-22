@@ -1,6 +1,0 @@
-RUN	clients.LogInSimulation	loginsimulation	1626856466047	 	3.6.1
-USER	LogInSimulation	START	1626856467379
-REQUEST		Get start page	1626856467409	1626856467435	KO	status.find.is(200), but actually found 404
-REQUEST		Get login page	1626856467473	1626856467485	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
-REQUEST		Submit login details	1626856467491	1626856467505	KO	status.find.is(303), but actually found 403
-USER	LogInSimulation	END	1626856467511
